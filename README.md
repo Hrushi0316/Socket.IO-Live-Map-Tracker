@@ -15,6 +15,10 @@ The app continuously tracks users’ geographic locations using the browser **Ge
 - 🔄 Updates marker position in real time without page refresh
 
 ---
+## 🎥 Demo GIF
+
+![Live Tracking Demo](assets/demo.gif)
+
 
 ## 🛠️ Tech Stack
 
