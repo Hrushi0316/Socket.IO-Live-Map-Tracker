@@ -17,7 +17,7 @@ The app continuously tracks users’ geographic locations using the browser **Ge
 ---
 ## 🎥 Demo GIF
 
-![Live Tracking Demo](assets/demo.gif)
+![Live Tracking Demo](https://github.com/Hrushi0316/Socket.IO-Live-Map-Tracker/blob/ac14f5f34d67ea4b7a89f6b0fa5598aa5cfee7d9/Screenshot%202026-01-14%20150657.png)
 
 
 ## 🛠️ Tech Stack
